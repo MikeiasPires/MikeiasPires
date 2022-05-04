@@ -1,4 +1,4 @@
-### Olá me chamo Mikeias um DEV junior em construção👋
+### Olá me chamo Mikéias! Um DEV junior em construção👋
 
 <!--
 **MikeiasPires/MikeiasPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
