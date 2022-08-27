@@ -1,9 +1,9 @@
-### Olá me chamo Mikéias! Um DEV junior em construção👋
+### DEV Jr. em construção.
 
-- 🌱 Atualmente estou em profundo estudo em React 
-- 👯 Tenho projeto em andamento com @thiagorcode sobre finanças
-- 📫 Contato por email: mikeiaspires23@gmail.com
-- 👁️ Focado em ser um especialista Front-end developer e UI Designer.
+- Atualmente me aprofundando nos estudos de React. 
+- Projeto em andamento com @thiagorcode sobre finanças
+- Contato por email: mikeiaspires23@gmail.com
+- Focado em ser um especialista Front-End Developer e UI Designer.
 
 ##
 <div>
