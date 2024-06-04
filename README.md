@@ -1,8 +1,7 @@
-### DEV Jr. em construção.
+### Developer
 
-- Atualmente me aprofundando nos estudos de React. 
+- Desenvolvedor Full Stack. 
 - Contato por email: mikeiaspires23@gmail.com
-- Focado em ser um especialista Front-End Developer e UI Designer.
 
 ##
 <div>
