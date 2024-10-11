@@ -1,7 +1,10 @@
-### Developer
 
-- Desenvolvedor Full Stack. 
-- Contato por email: mikeiaspires23@gmail.com
+- Desenvolvedor Full Stack.
+- Analista de Sistemas.
+- Contato por email: mikeiaspires23@gmail.com.
+
+  
+
 
 ##
 <div>
