@@ -1,7 +1,8 @@
 
-<div>
-  <img src='https://i.pinimg.com/736x/17/f8/86/17f886444dd196be8c3a3e91224c0204.jpg'/>
+<div style="border-radius: 19px; overflow: hidden;">
+    <img src='https://i.pinimg.com/736x/ca/25/66/ca25662ae9cc3df849234f064fc02386.jpg' style="width:1100px; height:250px; border-radius: 19px;" />
 </div>
+
 
 <div>
 <H1 align="center">Seja Bem Vindo  😄</H1>
