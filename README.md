@@ -1,6 +1,6 @@
 
 <div style="border-radius: 19px; overflow: hidden;">
-    <img src='https://i.pinimg.com/736x/ca/25/66/ca25662ae9cc3df849234f064fc02386.jpg' style="width:1100px; height:250px; border-radius: 19px;" />
+    <img src='https://i.pinimg.com/736x/ca/25/66/ca25662ae9cc3df849234f064fc02386.jpg' style="width:1100px; height:180px; border-radius: 19px;" />
 </div>
 
 
