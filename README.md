@@ -1,27 +1,26 @@
+<!-- Banner com bordas arredondadas -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/ca/25/66/ca25662ae9cc3df849234f064fc02386.jpg" width="100%" height="180px" style="border-radius: 20px;" />
+</p>
 
-<div style="border-radius: 19px; overflow: hidden;">
-    <img src='https://i.pinimg.com/736x/ca/25/66/ca25662ae9cc3df849234f064fc02386.jpg' style="width:1100px; height:180px; border-radius: 19px;" />
-</div>
+<!-- Apresentação -->
+<h1 align="center">Seja Bem-Vindo 😄</h1>
+<h2 align="center">Eu sou o Mike</h2>
 
+<p align="center">
+Desenvolvedor Full Stack 👨‍💻<br />
+Analista de Sistemas 🧠<br />
+Contato por e-mail: <a href="mailto:mikeiaspires23@gmail.com">mikeiaspires23@gmail.com</a> 📩<br />
+☕ Amante de café e tecnologia.
+</p>
 
-<div>
-<H1 align="center">Seja Bem Vindo  😄</H1>
-<h2 align="center"> Eu sou o Mike </h3>
-</div>
+---
 
-- Desenvolvedor Full Stack.
-- Analista de Sistemas.
-- Contato por email: mikeiaspires23@gmail.com.
-- ☕
-  
-##
-<div>
-  <h2> Tecnologias que utilizo </h2>
-  <p align="center">
+## 🚀 Tecnologias que utilizo
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,ts,python,nodejs,react,docker,mysql,aws,mongodb,kotlin,java,firebase,html,css" />
   </a>
 </p>
 
-  </div>
-  
