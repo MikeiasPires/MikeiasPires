@@ -11,7 +11,7 @@
 Desenvolvedor Full Stack 👨‍💻<br />
 Analista de Sistemas 🧠<br />
 Contato por e-mail: <a href="mailto:mikeiaspires23@gmail.com">mikeiaspires23@gmail.com</a> 📩<br />
-☕ Amante de café e tecnologia.
+☕ Coffee tec
 </p>
 
 ---
