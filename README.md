@@ -1,7 +1,3 @@
-<!-- Banner com bordas arredondadas -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/ca/25/66/ca25662ae9cc3df849234f064fc02386.jpg" width="100%" height="180px" style="border-radius: 20px;" />
-</p>
 
 <!-- Apresentação -->
 <h1 align="center">Seja Bem-Vindo 😄</h1>
